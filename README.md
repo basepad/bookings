@@ -1,0 +1,2 @@
+# bookings
+basepad: bookings
